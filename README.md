@@ -12,8 +12,8 @@
 
 | Name | Level | OS | Tags |
 | :--- | :---: | :---: | :---: |
-| [Easy-Peasy](https://symmetrical-potato-65dd8d86.pages.github.io/) | `Easy` | `Linux` | `Steganography, Discovery, Gathering` |
-| [CowboyHacker](https://effective-invention-c34953ec.pages.github.io/) | `Easy` | `Linux` | `Discovery, Gathering, Brute Force, Commands` |
+| [Easy-Peasy](https://danielruizraposo02.github.io/WriteUp-1/) | `Easy` | `Linux` | `Steganography, Discovery, Gathering` |
+| [CowboyHacker](https://danielruizraposo02.github.io/WriteUp-2/) | `Easy` | `Linux` | `Discovery, Gathering, Brute Force, Commands` |
 
 <img src='portfolio/img/1832491d548786d2.png' width='200' align='center'>
 
