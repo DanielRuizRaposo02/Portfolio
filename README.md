@@ -14,6 +14,8 @@
 | :--- | :---: | :---: | :---: |
 | [Easy-Peasy](https://danielruizraposo02.github.io/WriteUp-1/) | `Easy` | `Linux` | `Steganography, Discovery, Gathering` |
 | [CowboyHacker](https://danielruizraposo02.github.io/WriteUp-2/) | `Easy` | `Linux` | `Discovery, Gathering, Brute Force, Commands` |
+| [Lian_Yu](https://danielruizraposo02.github.io/Writeup-3/) | `Easy` | `Linux` | `Steganography, Discovery, Gathering, Fuzzing, Commands` |
+
 
 <img src='portfolio/img/1832491d548786d2.png' width='200' align='center'>
 
